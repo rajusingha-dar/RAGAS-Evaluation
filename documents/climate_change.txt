@@ -1,0 +1,56 @@
+# Climate Change: Causes, Effects, and Solutions
+
+Climate change refers to long-term shifts in global temperatures and weather
+patterns. While some climate change is natural, since the mid-20th century
+human activities have been the main driver of climate change.
+
+## Causes of Climate Change
+The primary cause of modern climate change is the increase of greenhouse
+gases in the atmosphere. Carbon dioxide (CO2) is the most significant,
+released through burning fossil fuels like coal, oil, and natural gas.
+Deforestation also contributes because trees absorb CO2.
+
+Methane (CH4), another potent greenhouse gas, is emitted during the
+production and transport of coal, oil, and natural gas, as well as from
+livestock and agricultural practices. Nitrous oxide (N2O) comes from
+agricultural and industrial activities.
+
+The greenhouse effect works by trapping heat from the sun in Earth's
+atmosphere. Without any greenhouse effect, Earth would be too cold to
+support life. However, the enhanced greenhouse effect caused by excess
+emissions is warming the planet at an alarming rate.
+
+## Effects of Climate Change
+Global average temperatures have risen by approximately 1.1 degrees Celsius
+since pre-industrial times. This warming has widespread effects:
+
+Rising sea levels threaten coastal communities worldwide. The melting of
+polar ice caps and glaciers contributes to sea level rise, which could
+displace hundreds of millions of people living in low-lying areas.
+
+Extreme weather events are becoming more frequent and intense. Hurricanes,
+droughts, wildfires, and floods are all intensified by a warmer climate.
+The 2019-2020 Australian bushfire season and recent flooding events in
+Europe and Asia are linked to climate change.
+
+Biodiversity loss is accelerating as species struggle to adapt to rapidly
+changing conditions. Coral reefs, which support about 25% of all marine
+species, are at severe risk from ocean warming and acidification.
+
+## Solutions
+Transitioning to renewable energy sources such as solar, wind, and
+hydroelectric power is the most important step. The cost of solar panels
+has dropped by over 90% in the last decade, making clean energy increasingly
+competitive with fossil fuels.
+
+Energy efficiency improvements in buildings, transportation, and industry
+can significantly reduce emissions. Electric vehicles (EVs) are replacing
+internal combustion engine cars at a growing pace.
+
+Carbon capture and storage (CCS) technologies aim to remove CO2 directly
+from the atmosphere or capture it at emission sources. Reforestation and
+protecting existing forests are natural carbon sinks.
+
+International cooperation is essential. The Paris Agreement, signed in 2015,
+committed nations to limiting warming to well below 2 degrees Celsius above
+pre-industrial levels, with efforts to limit it to 1.5 degrees Celsius.
